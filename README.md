@@ -1,3 +1,4 @@
 # SFR-Research-Note
-This is a follow up to Haverford alumni Anubhav Sharma's paper on HI rich but low star forming galaxies. We analyze the effect on sample population by different SFR indicators.
-lisdfhlifhlrhbg
+This project analyzes the results of this paper (https://arxiv.org/abs/2309.04854) on HI rich but low star forming galaxies by checking how different star formation rate (SFR) indicators affects the sample population. The original paper uses IR-indicated SFR as a threshold for low star forming galaxies, so this project follows up by graphically and statistically analyzing how changing SFR indicator will affect the sample population. 
+
+Graphical results show significant discrepancies between different SFR indicators, with a substantial number of galaxies being star forming in one indicator but non star forming in another. However, running statistical tests show that p-values of other SFR indicators to the paper's chosen IR SFR indicator do not have significant differences. 
